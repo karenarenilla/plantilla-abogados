@@ -3,7 +3,7 @@
 	margin-bottom: 0px;
 }
 #jumbotron1{
-	background-color: beige;
+	background-color: white;
 	height: 200px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -12,13 +12,14 @@
 }
 #jumbotron2{
 	background-image: url(../imagen/descarga.jpg);
-	height: 500px;
-	width: 100%;
+	height: 350px;
 	margin-top: 0px;
 	padding-top: 0px;
+	margin-bottom: 0px;
 }
 
 #row{
+	margin-top: 30px;
 	text-align: center;
 	height: 300px;
 	background-color: rgba(0, 0, 10, 0.5);
@@ -39,3 +40,10 @@
 	border: 1px solid rgb(179, 88, 75);
 	background-color: rgb(179, 88, 75);
 }
+#jumbotron3 {
+	margin-top: 0px;
+	background-color: white;
+	height: 400px;
+	margin-bottom: 0px;
+}
+
