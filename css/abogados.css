@@ -1,0 +1,23 @@
+#navbar-inverse
+{
+	margin-bottom: 0px;
+}
+#jumbotron1{
+	background-color: beige;
+	height: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px; 
+}
+#jumbotron2{
+	background-image: url(../imagen/descarga.jpg);
+	height: 500px;
+	width: 100%;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+#row{
+	height: 300px;
+	background-color: beige;
+}
