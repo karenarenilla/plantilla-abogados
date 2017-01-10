@@ -18,9 +18,9 @@
 	text-align: center;
 }
 #jumbotron2{
-	background-image: url(../imagen/descarga3.jpg);
+	background-image: url(../imagen/descarga.jpg);
 	height: 350px;
-	margin-top: 0px;
+	background-repeat: no-repeat;
 	padding-top: 0px;
 	margin-bottom: 0px;
 }
